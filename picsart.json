@@ -12,6 +12,13 @@
     "password": "falcon",
     "expiresAt": "2025-12-31",
     "allowOffline": true
+  }
+  {
+    "id": "64ef60159b88cb13",
+    "username": "PRINCE",
+    "password": "1234",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
   },
   {
     "id": "android_device_id_2",
