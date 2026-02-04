@@ -3,21 +3,21 @@
     "id": "64ef60159b88cb13",
     "username": "PRINCE",
     "password": "1234",
-    "expiresAt": "2025-12-31",
+    "expiresAt": "2026-12-31",
     "allowOffline": true
   },
   {
     "id": "1abbe8e9e1c1919a",
     "username": "falcon",
     "password": "falcon",
-    "expiresAt": "2025-12-31",
+    "expiresAt": "2026-12-31",
     "allowOffline": true
   },
   {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
-    "expiresAt": "2025-11-30",
+    "expiresAt": "2026-11-30",
     "allowOffline": false
   }
 ]
